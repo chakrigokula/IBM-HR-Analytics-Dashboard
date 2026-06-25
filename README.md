@@ -31,7 +31,7 @@ This project analyzes employee attrition and workforce trends using Power BI. Th
 - Most attrition occurs among employees aged 25–35.
 
 ## Files
-- 
+- https://github.com/chakrigokula/IBM-HR-Analytics-Dashboard/blob/main/IBM%20HR%20ANALYTICS%20DASHBOARD.pbit
 - Dashboard Screenshot https://github.com/chakrigokula/IBM-HR-Analytics-Dashboard/blob/main/Screenshot%202026-06-25%20124146.png
 - README.md
 
